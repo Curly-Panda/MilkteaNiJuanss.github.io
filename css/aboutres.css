@@ -1,0 +1,496 @@
+@media screen and (min-width: 320px) {
+  .milogo{
+    height: 6em;
+}
+body {
+  background-color: #1080d4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+body::-webkit-scrollbar{
+    display: none;
+    height: 100vh;
+}
+nav {
+    background-color: #111;
+    max-width: 100%;
+    position: relative;
+    z-index: 10;
+  }
+nav a.Linkss {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 14px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+ .milogo{
+      margin-top: 15px;
+      height: 1.7em;
+    }
+ .flayer{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top: -1em;
+  z-index: 6;
+ }
+ .mlayer{
+  position: absolute;
+  margin-top: 9.6em;
+  width: 100%;
+  z-index: 4;
+  top: 0;
+ }
+ .blayer{
+  position: relative;
+  margin-top: -10px;
+  height: auto;
+  width: 100%;
+  z-index: 3;
+ }
+ .cattoo{
+  position: absolute;
+  height: 2.8em;
+  margin-left: 13em;
+  margin-top: 7.2em;
+  z-index: 7;
+ }
+ .sitcat{
+  position: absolute;
+  margin-top: 5.3em;
+  margin-left: 3.2em;
+  height: 2.4em;
+  z-index: 8;
+ }
+ .aboutt{
+  position: absolute;
+  width: 100%;
+  height: 28em;
+  margin-top: 2.1em;
+  z-index: 10;
+ }
+ .signn{
+  position: absolute;
+  height: 4em;
+  margin-top: 2.8em;
+  margin-left: 12em;
+  z-index: 6;
+  top: 0;
+ }
+}
+@media screen and (min-width: 375px){
+  .milogo{
+    height: 6em;
+}
+body {
+  background-color: #1080d4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+body::-webkit-scrollbar{
+    display: none;
+    height: 100vh;
+}
+nav {
+    background-color: #111;
+    max-width: 100%;
+    position: relative;
+    z-index: 10;
+  }
+nav a.Linkss {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 27px 16px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+ .milogo{
+      margin-top: 15px;
+      height: 1.7em;
+    }
+ .flayer{
+  position: absolute;
+  width: 100%;
+  margin-top: -22px;
+  height: auto;
+  z-index: 6;
+ }
+ .mlayer{
+  position: absolute;
+  margin-top: 11em;
+  width: 100%;
+  z-index: 4;
+  top: 0;
+ }
+ .blayer{
+  position: relative;
+  margin-top: -1.9em;
+  height: auto;
+  width: 100%;
+  z-index: 3;
+ }
+ .cattoo{
+  position: absolute;
+  height: 3em;
+  margin-left: 16em;
+  margin-top: 8.5em;
+  z-index: 7;
+ }
+ .sitcat{
+  position: absolute;
+  margin-top: 5.8em;
+  margin-left: 3.5em;
+  height: 3em;
+  z-index: 8;
+ }
+ .aboutt{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top: 3.1em;
+  z-index: 10;
+ }
+ .signn{
+  position: absolute;
+  height: 4em;
+  margin-top: 2.8em;
+  margin-left: 14em;
+  z-index: 6;
+  top: 0;
+ }
+}
+@media screen and (min-width: 425px) {
+  .milogo{
+    height: 6em;
+}
+body {
+  background-color: #1080d4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+body::-webkit-scrollbar{
+    display: none;
+    height: 100vh;
+}
+nav {
+    background-color: #111;
+    max-width: 100%;
+    position: relative;
+    z-index: 10;
+  }
+nav a.Linkss {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 12px;
+  }
+ .milogo{
+      margin-top: 10px;
+      height: 1.7em;
+    }
+ .flayer{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  z-index: 6;
+ }
+ .mlayer{
+  position: absolute;
+  margin-top: 11em;
+  width: 100%;
+  z-index: 4;
+  top: 0;
+ }
+ .blayer{
+  position: relative;
+  margin-top: -1em;
+  height: auto;
+  width: 100%;
+  z-index: 3;
+ }
+ .cattoo{
+  position: absolute;
+  height: 4em;
+  margin-left: 17em;
+  margin-top: 9.3em;
+  z-index: 7;
+ }
+ .sitcat{
+  position: absolute;
+  margin-top: 6.8em;
+  margin-left: 4em;
+  height: 3.4em;
+  z-index: 8;
+ }
+ .aboutt{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top: 3.2em;
+  z-index: 10;
+ }
+ .signn{
+  position: absolute;
+  height: 5em;
+  margin-top: 2em;
+  margin-left: 15em;
+  z-index: 6;
+  top: 0;
+ }
+
+  }
+@media screen and (min-width: 768px) { 
+.milogo{
+    height: 6em;
+}
+body {
+  background-color: #1080d4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+body::-webkit-scrollbar{
+    display: none;
+    height: 100vh;
+}
+nav {
+    background-color: #111;
+    max-width: 100%;
+    position: relative;
+    z-index: 10;
+  }
+nav a.Linkss {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 25px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+ .milogo{
+      height: 3.5em;
+    }
+ .flayer{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  z-index: 6;
+ }
+ .mlayer{
+  position: absolute;
+  margin-top: 21em;
+  width: 100%;
+  z-index: 4;
+  top: 0;
+ }
+ .blayer{
+  position: relative;
+  margin-top: -1em;
+  height: auto;
+  width: 100%;
+  z-index: 3;
+ }
+ .cattoo{
+  position: absolute;
+  height: 7em;
+  margin-left: 33em;
+  margin-top: 18.2em;
+  z-index: 7;
+ }
+ .sitcat{
+  position: absolute;
+  margin-top: 14.2em;
+  margin-left: 8.2em;
+  height: 5em;
+  z-index: 8;
+ }
+ .aboutt{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  margin-top: 6.3em;
+  z-index: 10;
+ }
+ .signn{
+  position: absolute;
+  height: 7em;
+  margin-top: 4.4em;
+  margin-left: 29em;
+  z-index: 6;
+  top: 0;
+ }
+
+}
+@media screen and (min-width: 1024px) {
+    .milogo{
+        height: 6em;
+    }
+    body {
+      background-color: #1080d4;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    body::-webkit-scrollbar{
+        display: none;
+        height: 100vh;
+    }
+    nav {
+        background-color: #111;
+        max-width: 100%;
+        position: relative;
+        z-index: 10;
+      }
+    nav a.Linkss {
+        float: right;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 30px 25px;
+        text-decoration: none;
+        font-size: 25px;
+      }
+     .milogo{
+          height: 4.7em;
+        }
+     .flayer{
+      position: absolute;
+      width: 100%;
+      height: 36.9em;
+      z-index: 6;
+     }
+     .mlayer{
+      position: absolute;
+      margin-top: 25.6em;
+      width: 100%;
+      z-index: 4;
+      top: 0;
+     }
+     .blayer{
+      position: relative;
+      margin-top: -1em;
+      height: auto;
+      width: 100%;
+      z-index: 3;
+     }
+     .cattoo{
+      position: absolute;
+      height: 8em;
+      margin-left: 43em;
+      margin-top: 24em;
+      z-index: 7;
+     }
+     .sitcat{
+      position: absolute;
+      margin-top: 18.5em;
+      margin-left: 11.5em;
+      height: 6em;
+      z-index: 8;
+     }
+     .aboutt{
+      position: absolute;
+      width: 100%;
+      height: auto;
+      margin-top: 6em;
+      z-index: 10;
+     }
+     .signn{
+      position: absolute;
+      height: 9em;
+      margin-top: 4.7em;
+      margin-left: 41em;
+      z-index: 6;
+      top: 0;
+     }
+   
+}
+@media screen and (min-width: 1440px){
+  .milogo{
+    height: 6em;
+  }
+  body {
+    background-color: #1080d4;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  body::-webkit-scrollbar{
+      display: none;
+      height: 100vh;
+  }
+  nav {
+      background-color: #111;
+      max-width: 100%;
+      position: relative;
+      z-index: 10;
+    }
+  nav a .Linkss {
+      float: right;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 23px 25px;
+      text-decoration: none;
+      font-size: 25px;
+    }
+   .milogo{
+        height: 4.7em;
+      }
+   .flayer{
+    position: absolute;
+    width: 100%;
+    height: 42.3em;
+    z-index: 6;
+   }
+   .mlayer{
+    position: absolute;
+    margin-top: 25.6em;
+    width: 100%;
+    z-index: 4;
+    top: 0;
+   }
+   .blayer{
+    position: relative;
+    margin-top: -16em;
+    height: auto;
+    width: 100%;
+    z-index: 3;
+   }
+   .cattoo{
+    position: absolute;
+    height: 10em;
+    margin-left: 62em;
+    margin-top: 26.5em;
+    z-index: 7;
+   }
+   .sitcat{
+    position: absolute;
+    margin-top: 20em;
+    margin-left: 17em;
+    height: 8em;
+    z-index: 8;
+   }
+   .aboutt{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin-top: 46.5em;
+    top: 0;
+    z-index: 10;
+   }
+   .signn{
+    position: absolute;
+    height: 12em;
+    margin-top: 4.7em;
+    margin-left: 60em;
+    z-index: 6;
+    top: 0;
+   }
+   
+}
